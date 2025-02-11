@@ -6,25 +6,24 @@
 
 Đây là một dự án JavaScript đơn giản nhằm giải quyết các bài tập phổ biến với các tính năng tính toán như:
 
-1. Tổng các số dương trong mảng.
-2. Đếm có bao nhiêu số dương trong mảng.
-3. Tìm số nhỏ nhất trong mảng.
-4. Tìm số dương nhỏ nhất trong mảng.
-5. Tìm số chẵn cuối cùng trong mảng. Nếu mảng không có giá trị chẵn thì trả về -1.
-6. Đổi chỗ 2 giá trị trong mảng theo vị trí (Cho nhập vào 2 vị trí muốn đổi chỗ giá trị).
-7. Sắp xếp mảng theo thứ tự tăng dần.
-8. Tìm số nguyên tố đầu tiên trong mảng. Nếu mảng không có số nguyên tố thì trả về – 1.
-9. Nhập thêm 1 mảng số thực, tìm xem trong mảng có bao nhiêu số nguyên?
-10. So sánh số lượng số dương và số lượng số âm xem số nào nhiều hơn.
+**Tính tổng các số dương trong mảng**: Tính toán tổng tất cả các số dương có trong mảng.
+**Đếm số lượng số dương**: Xác định có bao nhiêu số dương trong mảng.
+**Tìm số nhỏ nhất trong mảng**: Tìm giá trị nhỏ nhất trong một mảng số nguyên.
+**Tìm số dương nhỏ nhất**: Tìm ra số dương nhỏ nhất trong mảng (nếu có).
+**Tìm số chẵn cuối cùng trong mảng**: Xác định số chẵn cuối cùng trong mảng. Nếu không có số chẵn, trả về `-1`.
+**Đổi chỗ 2 giá trị trong mảng**: Hoán đổi vị trí của 2 giá trị trong mảng, với việc nhập vào 2 chỉ số vị trí muốn đổi chỗ.
+**Sắp xếp mảng theo thứ tự tăng dần**: Sắp xếp các phần tử trong mảng theo thứ tự tăng dần, từ nhỏ nhất đến lớn nhất.
+**Tìm số nguyên tố đầu tiên**: Tìm số nguyên tố đầu tiên trong mảng. Nếu không có số nguyên tố, trả về `-1`.
+**Đếm số nguyên trong mảng số thực**: Nhập mảng số thực và xác định số lượng các phần tử nguyên trong mảng.
+**So sánh số lượng số dương và số âm**: So sánh và xác định xem số dương hay số âm chiếm ưu thế trong mảng.
 
 Dự án sử dụng HTML, CSS (với Bootstrap) và JavaScript để xây dựng các ứng dụng web nhỏ, giúp người dùng thực hiện các phép tính nhanh chóng.
 
 ## Tính năng
 
-- **Quản lý tuyển sinh**: Nhập điểm chuẩn, điểm của ba môn thi và chọn khu vực, đối tượng để tính toán kết quả tuyển sinh.
-- **Tính tiền điện**: Tính toán tiền điện theo số kWh tiêu thụ, với các mức giá điện khác nhau.
-- **Tính thuế thu nhập cá nhân**: Tính thuế thu nhập cá nhân dựa trên tổng thu nhập và số người phụ thuộc.
-- **Tính tiền cáp**: Tính tiền cáp cho khách hàng dân dụng và doanh nghiệp, bao gồm số lượng kết nối và kênh cao cấp.
+- **Tính toán mảng số học**: Các bài tập trong dự án cho phép người dùng thực hiện các phép tính với mảng số nguyên và số thực, bao gồm các phép toán như tính tổng, đếm số dương, tìm số nhỏ nhất, sắp xếp mảng, v.v.
+- **Giao diện người dùng đáp ứng**: Giao diện của dự án sử dụng Bootstrap để tạo ra các form và các phần tử giao diện người dùng dễ sử dụng.
+- **Công cụ hỗ trợ giải bài tập**: Dự án giúp giải quyết các bài tập cơ bản trong lập trình JavaScript qua giao diện web dễ sử dụng, giúp học viên có thể áp dụng lý thuyết vào thực tế.
 
 ## Cài đặt
 
@@ -47,3 +46,5 @@ Thực hiện các bước sau để thiết lập và chạy dự án cục b�
 ## Công nghệ sử dụng
 
 - **Bootstrap**: Được sử dụng để tạo giao diện người dùng đẹp mắt và đáp ứng
+- **JavaScript**: Xử lý logic tính toán cho các bài tập trong dự án
+- **HTML/CSS**: Cấu trúc trang web và phong cách thiết kế, đảm bảo tính thẩm mỹ và khả năng tương thích.
