@@ -6,16 +6,16 @@
 
 Đây là một dự án JavaScript đơn giản nhằm giải quyết các bài tập phổ biến với các tính năng tính toán như:
 
-**Tính tổng các số dương trong mảng**: Tính toán tổng tất cả các số dương có trong mảng.
-**Đếm số lượng số dương**: Xác định có bao nhiêu số dương trong mảng.
-**Tìm số nhỏ nhất trong mảng**: Tìm giá trị nhỏ nhất trong một mảng số nguyên.
-**Tìm số dương nhỏ nhất**: Tìm ra số dương nhỏ nhất trong mảng (nếu có).
-**Tìm số chẵn cuối cùng trong mảng**: Xác định số chẵn cuối cùng trong mảng. Nếu không có số chẵn, trả về `-1`.
-**Đổi chỗ 2 giá trị trong mảng**: Hoán đổi vị trí của 2 giá trị trong mảng, với việc nhập vào 2 chỉ số vị trí muốn đổi chỗ.
-**Sắp xếp mảng theo thứ tự tăng dần**: Sắp xếp các phần tử trong mảng theo thứ tự tăng dần, từ nhỏ nhất đến lớn nhất.
-**Tìm số nguyên tố đầu tiên**: Tìm số nguyên tố đầu tiên trong mảng. Nếu không có số nguyên tố, trả về `-1`.
-**Đếm số nguyên trong mảng số thực**: Nhập mảng số thực và xác định số lượng các phần tử nguyên trong mảng.
-**So sánh số lượng số dương và số âm**: So sánh và xác định xem số dương hay số âm chiếm ưu thế trong mảng.
+- **Tính tổng các số dương trong mảng**: Tính toán tổng tất cả các số dương có trong mảng.
+- **Đếm số lượng số dương**: Xác định có bao nhiêu số dương trong mảng.
+- **Tìm số nhỏ nhất trong mảng**: Tìm giá trị nhỏ nhất trong một mảng số nguyên.
+- **Tìm số dương nhỏ nhất**: Tìm ra số dương nhỏ nhất trong mảng (nếu có).
+- **Tìm số chẵn cuối cùng trong mảng**: Xác định số chẵn cuối cùng trong mảng. Nếu không có số chẵn, trả về `-1`.
+- **Đổi chỗ 2 giá trị trong mảng**: Hoán đổi vị trí của 2 giá trị trong mảng, với việc nhập vào 2 chỉ số vị trí muốn đổi chỗ.
+- **Sắp xếp mảng theo thứ tự tăng dần**: Sắp xếp các phần tử trong mảng theo thứ tự tăng dần, từ nhỏ nhất đến lớn nhất.
+- **Tìm số nguyên tố đầu tiên**: Tìm số nguyên tố đầu tiên trong mảng. Nếu không có số nguyên tố, trả về `-1`.
+- **Đếm số nguyên trong mảng số thực**: Nhập mảng số thực và xác định số lượng các phần tử nguyên trong mảng.
+- **So sánh số lượng số dương và số âm**: So sánh và xác định xem số dương hay số âm chiếm ưu thế trong mảng.
 
 Dự án sử dụng HTML, CSS (với Bootstrap) và JavaScript để xây dựng các ứng dụng web nhỏ, giúp người dùng thực hiện các phép tính nhanh chóng.
 
